@@ -1,2 +1,2 @@
 # study_cpp
-this project is used for studying c++ .
+this project is used for storaging c++ code.
