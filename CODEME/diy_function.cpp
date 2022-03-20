@@ -1,5 +1,4 @@
-#include<iostream>
-using namespcae std;
+#include"diy_function.h"
 
 int func1_jiechen(int n){
     int ans =1;

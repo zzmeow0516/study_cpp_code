@@ -1,11 +1,6 @@
-#include<iostream>
-using namespace std;
+#ifndef _FUNCTION_H_
+#define  _FUNCTION_H_
 
 int func1_jiechen(int n);
-
-int func1_jiechen(int n){
-    int ans =1;
-    while(n>1)
-    ans*=n--;
-    return ans;
-}
+ 
+#endif 
